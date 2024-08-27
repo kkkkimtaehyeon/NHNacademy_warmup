@@ -47,6 +47,7 @@ public class RationalOperator {
 
         int[] result = plus(left, right);
         System.out.println(result[0] + "/" + result[1]);
+        sc.close();
 
     }
 }
